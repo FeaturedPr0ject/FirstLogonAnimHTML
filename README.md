@@ -1,1 +1,1 @@
-Go to "C:\Windows\System32\oobe" and press setup.
+Install "Setup.exe" and click it.
